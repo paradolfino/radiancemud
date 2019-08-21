@@ -1,0 +1,119 @@
+-
+START
+StdRoom
+New Area
+New Room 
+Brand new database room! You need to change this text with the MODIFY ROOM command.  If your character is not an Archon, pick up the book you see here and read it immediately! 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+UNSF Radiance#0
+MetalRoom
+UNSF Radiance
+UNSF Radiance - Cryobay 
+A large, sterile room stretches before you. The white walls are covered in tech and advanced machinery. There are numerous person-sized capsules. Some of the capsules are open, but some of them are occupied by people who appear to be sleeping. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES><BHAVE><BCLASS>Sounder</BCLASS><BPARMS>PORTAL_ENTER Welcome, $p. You are finally awake! You are in the UNSF Radiance Cryobay 1. Please proceed through the bulkhead infront of you into the armory to receive your crew fatigues and further instructions.</BPARMS></BHAVE></BEHAVES><AFFECS /> 
+-
+UNSF Radiance#1
+MetalRoom
+UNSF Radiance
+UNSF Radiance - Armory 
+A large, sterile room stretches before you. There are groups of lockers and storage cages along all walls. There are also shelves above the lockers and you can see neatly stacked cloth items, boots, and gloves. Inside the cages you can see various items that resemble firearms or other ranged weapons. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Starbase: Orion Six#0
+StdRoom
+Starbase: Orion Six
+Title of Starbase: Orion Six#0 
+Description of Starbase: Orion Six#0 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Radiance City#0
+StdRoom
+Radiance City
+Title of Radiance City#0 
+Description of Radiance City#0 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Radiance Airport#0
+StdRoom
+Radiance Airport
+Title of Radiance Airport#0 
+Description of Radiance Airport#0 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Gondheim#0
+StdRoom
+Gondheim
+Title of Gondheim#0 
+Description of Gondheim#0 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Albast#0
+StdRoom
+Albast
+Title of Albast#0 
+Description of Albast#0 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Albast#0
+WoodRoom
+Albast
+Albast Customs Agency 
+A small room opens before you. It is decorated simply, with framed maps of the world, paintings, and braziers hanging from the wooden walls. A non-descript desk sits near the back of the room. It's covered in disheveled stacks of paper. If there was a chair for sitting at it, you could not tell. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Albast#1
+StdRoom
+Albast
+Title of Albast#1 
+Description of Albast#1 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Albast#1
+CityStreet
+Albast
+Albast Customs-to-Bridge Annex 
+A fenced off area that takes you from the Customs Office to the Albast-Bridgeton Water Bridge. There's a simple dirt path that leads to a tall, thin building that is the bridge gatehouse. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Albast#2
+StdRoom
+Albast
+Title of Albast#2 
+Description of Albast#2 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Albast#2
+StoneRoom
+Albast
+Albast-Bridgeton Bridge Gatehouse 
+A small stone room that appears to serve as the barracks for the local gate guards: hay cots, wooden chests, armor and weapon stands fill the room. A few guards sit at a table for their meals, a few are asleep, and a few sit on their cots, polishing equipment. There is a ramshackle sign in the middle of the room that reads "This way to bridge." It's shaped like an arrow and points toward an exit. 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Albast#3
+StdRoom
+Albast
+Title of Albast#3 
+Description of Albast#3 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Albast#3
+Road
+Albast
+Water Bridge - Albast Gate 
+A large gate hangs over a cobble road that then meets a stone ramp leading to the Water Bridge. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Albast#4
+StdRoom
+Albast
+Title of Albast#4 
+Description of Albast#4 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Albast#4
+LongRoad
+Albast
+Water Bridge 
+The Water Bridge spans across the Narrow Channel, which separates Albast (on the continent of Vale) from Bridgeton (on the continent of Giaga). It is famous for being constructed of shimmering white stone and connects the Principality of Buren with its liege Kingdom proper. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 

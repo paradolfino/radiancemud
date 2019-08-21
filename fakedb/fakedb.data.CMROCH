@@ -1,0 +1,36 @@
+*
+Albast#0
+GenMob1419435464@ce621ed
+GenMob
+<NAME>Customs Agent Lewis Garnier</NAME><DESC>A curt, aged human man. He looks like he used to be a fighter, but time has taken his strength and his posture. He hunches forward.</DESC><DISP>Customs Agent Lewis Garnier stands nearby.</DISP><PROP>11|100|0|0|0|1|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>0</FLAG><MONEY>0</MONEY><VARMONEY>0.0</VARMONEY><GENDER>M</GENDER><MRACE>Human</MRACE><FACTIONS><FCTN ID="ALIGNMENT.INI">0</FCTN></FACTIONS><INVEN /><ABLTYS><ABLTY><ACLASS>Chopping</ACLASS><APROF>50</APROF><ADATA><AWRAP /></ADATA></ABLTY><ABLTY><ACLASS>Common</ACLASS><APROF>100</APROF><ADATA><AWRAP /></ADATA></ABLTY></ABLTYS> 
+1
+11
+0
+
+-
+Albast#0
+GenMob1419435464@3dda4f16
+GenMob
+<NAME>Customs Agent Lewis Garnier</NAME><DESC>A curt, aged human man. He looks like he used to be a fighter, but time has taken his strength and his posture. He hunches forward.</DESC><DISP>Customs Agent Lewis Garnier stands nearby.</DISP><PROP>11|100|0|0|0|1|0|1.0|0|0|0|</PROP><IMG /><BEHAVES /><AFFECS /><FLAG>0</FLAG><MONEY>0</MONEY><VARMONEY>0.0</VARMONEY><GENDER>M</GENDER><MRACE>Human</MRACE><FACTIONS><FCTN ID="ALIGNMENT.INI">0</FCTN></FACTIONS><INVEN /><ABLTYS><ABLTY><ACLASS>Chopping</ACLASS><APROF>50</APROF><ADATA><AWRAP /></ADATA></ABLTY><ABLTY><ACLASS>Common</ACLASS><APROF>100</APROF><ADATA><AWRAP /></ADATA></ABLTY></ABLTYS> 
+1
+11
+0
+
+*
+Albast#1
+GenMob1419435464@73380c85
+GenMob
+<NAME>Albast Customs Guard</NAME><DESC>The customs guard is fully outfitted in chainmail armor and carries a sickle-shaped sword on his hip. He has a black tunic cover his chest with a sewn badge that shows the Albast City Sigil.</DESC><DISP>A customs guard stands nearby.</DISP><PROP>11|-5|35|35|0|35|292|2.0|181|75|0|</PROP><IMG /><BEHAVES><BHAVE><BCLASS>GateGuard</BCLASS><BPARMS /></BHAVE></BEHAVES><AFFECS /><FLAG>0</FLAG><MONEY>18</MONEY><VARMONEY>0.0</VARMONEY><GENDER>M</GENDER><MRACE>Human</MRACE><FACTIONS><FCTN ID="ALIGNMENT.INI">0</FCTN></FACTIONS><INVEN /><ABLTYS><ABLTY><ACLASS>Chopping</ACLASS><APROF>50</APROF><ADATA><AWRAP /></ADATA></ABLTY><ABLTY><ACLASS>Common</ACLASS><APROF>100</APROF><ADATA><AWRAP /></ADATA></ABLTY><ABLTY><ACLASS>FireBuilding</ACLASS><APROF>0</APROF><ADATA><AWRAP /></ADATA></ABLTY></ABLTYS> 
+35
+11
+292
+
+-
+Albast#1
+GenMob1419435464@5843fd57
+GenMob
+<NAME>Albast Customs Guard</NAME><DESC>The customs guard is fully outfitted in chainmail armor and carries a sickle-shaped sword on his hip. He has a black tunic cover his chest with a sewn badge that shows the Albast City Sigil.</DESC><DISP>A customs guard stands nearby.</DISP><PROP>11|-5|35|35|0|35|292|2.0|181|75|0|</PROP><IMG /><BEHAVES><BHAVE><BCLASS>GateGuard</BCLASS><BPARMS /></BHAVE></BEHAVES><AFFECS /><FLAG>0</FLAG><MONEY>18</MONEY><VARMONEY>0.0</VARMONEY><GENDER>M</GENDER><MRACE>Human</MRACE><FACTIONS><FCTN ID="ALIGNMENT.INI">0</FCTN></FACTIONS><INVEN /><ABLTYS><ABLTY><ACLASS>Chopping</ACLASS><APROF>50</APROF><ADATA><AWRAP /></ADATA></ABLTY><ABLTY><ACLASS>Common</ACLASS><APROF>100</APROF><ADATA><AWRAP /></ADATA></ABLTY><ABLTY><ACLASS>FireBuilding</ACLASS><APROF>0</APROF><ADATA><AWRAP /></ADATA></ABLTY></ABLTYS> 
+35
+11
+292
+
