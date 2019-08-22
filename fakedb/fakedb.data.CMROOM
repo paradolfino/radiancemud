@@ -19,40 +19,12 @@ UNSF Radiance
 UNSF Radiance - Armory 
 A large, sterile room stretches before you. There are groups of lockers and storage cages along all walls. There are also shelves above the lockers and you can see neatly stacked cloth items, boots, and gloves. Inside the cages you can see various items that resemble firearms or other ranged weapons. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Starbase: Orion Six#0
-StdRoom
-Starbase: Orion Six
-Title of Starbase: Orion Six#0 
-Description of Starbase: Orion Six#0 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
 Radiance City#0
 StdRoom
 Radiance City
 Title of Radiance City#0 
 Description of Radiance City#0 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Radiance Airport#0
-StdRoom
-Radiance Airport
-Title of Radiance Airport#0 
-Description of Radiance Airport#0 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Gondheim#0
-StdRoom
-Gondheim
-Title of Gondheim#0 
-Description of Gondheim#0 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Albast#0
-StdRoom
-Albast
-Title of Albast#0 
-Description of Albast#0 
 <RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
 Albast#0
@@ -61,26 +33,12 @@ Albast
 Albast Customs Agency 
 A small room opens before you. It is decorated simply, with framed maps of the world, paintings, and braziers hanging from the wooden walls. A non-descript desk sits near the back of the room. It's covered in disheveled stacks of paper. If there was a chair for sitting at it, you could not tell. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Albast#1
-StdRoom
-Albast
-Title of Albast#1 
-Description of Albast#1 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
 Albast#1
 CityStreet
 Albast
 Albast Customs-to-Bridge Annex 
 A fenced off area that takes you from the Customs Office to the Albast-Bridgeton Water Bridge. There's a simple dirt path that leads to a tall, thin building that is the bridge gatehouse. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Albast#2
-StdRoom
-Albast
-Title of Albast#2 
-Description of Albast#2 
 <RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
 Albast#2
@@ -89,26 +47,12 @@ Albast
 Albast-Bridgeton Bridge Gatehouse 
 A small stone room that appears to serve as the barracks for the local gate guards: hay cots, wooden chests, armor and weapon stands fill the room. A few guards sit at a table for their meals, a few are asleep, and a few sit on their cots, polishing equipment. There is a ramshackle sign in the middle of the room that reads "This way to bridge." It's shaped like an arrow and points toward an exit. 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Albast#3
-StdRoom
-Albast
-Title of Albast#3 
-Description of Albast#3 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
 Albast#3
 Road
 Albast
 Water Bridge - Albast Gate 
 A large gate hangs over a cobble road that then meets a stone ramp leading to the Water Bridge. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Albast#4
-StdRoom
-Albast
-Title of Albast#4 
-Description of Albast#4 
 <RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
 Albast#4
@@ -117,3 +61,164 @@ Albast
 Water Bridge 
 The Water Bridge spans across the Narrow Channel, which separates Albast (on the continent of Vale) from Bridgeton (on the continent of Giaga). It is famous for being constructed of shimmering white stone and connects the Principality of Buren with its liege Kingdom proper. 
 <RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Albast#5
+StdRoom
+Albast
+Title of Albast#5 
+Description of Albast#5 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Albast#5
+LongRoad
+Albast
+Water Bridge - Center 
+The Water Bridge expands into a large square area that extends beyond the are where the sides of the bridge had been. In this space, several market stands have been set up and people of all stripes peruse through the wares. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Bridgeton#0
+StdRoom
+Bridgeton
+Title of Bridgeton#0 
+Description of Bridgeton#0 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Bridgeton#0
+LongRoad
+Bridgeton
+Water Bridge - Bridgeton Gate 
+This side of the Water Bridge is clearly not as maintained as the Albast side. Dirt and refuse litter the walkway of the bridge up to the looming gate into Bridgeton City. There are shanties and makeshift shacks lining the sides of the bridge and you can see all manner of creatures, most of them are non-human and many call out to passersby in pleading tones, speaking in unfamiliar languages and dialects. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Bridgeton#1
+StdRoom
+Bridgeton
+Title of Bridgeton#1 
+Description of Bridgeton#1 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Bridgeton#1
+PlainsGrid
+Bridgeton
+Bridgeton - Main Street 
+Description of Bridgeton#1 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><XGRID>5</XGRID><YGRID>5</YGRID><IMG /><BEHAVES /><AFFECS /> 
+*
+Bridgeton#2
+StdRoom
+Bridgeton
+Title of Bridgeton#2 
+Description of Bridgeton#2 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Bridgeton#1
+CityStreet
+Bridgeton
+Bridgeton - Main Street - Bridge Gate 
+A simple cobblestone road runs east and west, with a multitude of wooden buildings of varying sizes, shapes, and functions, surrounding you on all sides. There are many people scurrying to-and-from, most ignorant or oblivious to your presence. 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Bridgeton#2
+StdRoom
+Bridgeton
+Title of Bridgeton#2 
+Description of Bridgeton#2 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Bridgeton#2
+WoodRoom
+Bridgeton
+Bridgeton Information Center 
+TODO 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Bridgeton#3
+StdRoom
+Bridgeton
+Title of Bridgeton#3 
+Description of Bridgeton#3 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Bridgeton#3
+CityStreet
+Bridgeton
+Bridgeton - Main Street - East 
+TODO 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Bridgeton#4
+StdRoom
+Bridgeton
+Title of Bridgeton#4 
+Description of Bridgeton#4 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Bridgeton#4
+StdRoom
+Bridgeton
+Bridgeton - Main Street - East 
+TODO 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Bridgeton#5
+StdRoom
+Bridgeton
+Title of Bridgeton#5 
+Description of Bridgeton#5 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Bridgeton#5
+StdRoom
+Bridgeton
+Bridgeton - Main Street - East 
+TODO 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Bridgeton#5
+StdRoom
+Bridgeton
+Bridgeton - The Setting Sun Inn & Taphouse 
+TODO 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Bridgeton#6
+StdRoom
+Bridgeton
+Title of Bridgeton#6 
+Description of Bridgeton#6 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Bridgeton#6
+StdRoom
+Bridgeton
+Bridgeton - Main Street - West 
+TODO 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Bridgeton#7
+StdRoom
+Bridgeton
+Title of Bridgeton#7 
+Description of Bridgeton#7 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Bridgeton#7
+CityStreet
+Bridgeton
+Bridgeton - Main Street - East: NORTH ALLEYWAYS 
+TODO 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Bridgeton#7
+CityStreet
+Bridgeton
+NORTH ALLEYWAYS 
+TODO 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Bridgeton#7
+PlainsThinGrid
+Bridgeton
+NORTH ALLEYWAYS 
+TODO 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><XGRID>1</XGRID><YGRID>5</YGRID><IMG /><BEHAVES /><AFFECS /> 
