@@ -61,26 +61,12 @@ Albast
 Water Bridge 
 The Water Bridge spans across the Narrow Channel, which separates Albast (on the continent of Vale) from Bridgeton (on the continent of Giaga). It is famous for being constructed of shimmering white stone and connects the Principality of Buren with its liege Kingdom proper. 
 <RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Albast#5
-StdRoom
-Albast
-Title of Albast#5 
-Description of Albast#5 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
 Albast#5
 LongRoad
 Albast
 Water Bridge - Center 
 The Water Bridge expands into a large square area that extends beyond the are where the sides of the bridge had been. In this space, several market stands have been set up and people of all stripes peruse through the wares. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Bridgeton#0
-StdRoom
-Bridgeton
-Title of Bridgeton#0 
-Description of Bridgeton#0 
 <RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
 Bridgeton#0
@@ -89,40 +75,12 @@ Bridgeton
 Water Bridge - Bridgeton Gate 
 This side of the Water Bridge is clearly not as maintained as the Albast side. Dirt and refuse litter the walkway of the bridge up to the looming gate into Bridgeton City. There are shanties and makeshift shacks lining the sides of the bridge and you can see all manner of creatures, most of them are non-human and many call out to passersby in pleading tones, speaking in unfamiliar languages and dialects. 
 <RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Bridgeton#1
-StdRoom
-Bridgeton
-Title of Bridgeton#1 
-Description of Bridgeton#1 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Bridgeton#1
-PlainsGrid
-Bridgeton
-Bridgeton - Main Street 
-Description of Bridgeton#1 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><XGRID>5</XGRID><YGRID>5</YGRID><IMG /><BEHAVES /><AFFECS /> 
-*
-Bridgeton#2
-StdRoom
-Bridgeton
-Title of Bridgeton#2 
-Description of Bridgeton#2 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
 Bridgeton#1
 CityStreet
 Bridgeton
 Bridgeton - Main Street - Bridge Gate 
 A simple cobblestone road runs east and west, with a multitude of wooden buildings of varying sizes, shapes, and functions, surrounding you on all sides. There are many people scurrying to-and-from, most ignorant or oblivious to your presence. 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Bridgeton#2
-StdRoom
-Bridgeton
-Title of Bridgeton#2 
-Description of Bridgeton#2 
 <RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
 Bridgeton#2
@@ -131,13 +89,6 @@ Bridgeton
 Bridgeton Information Center 
 TODO 
 <RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Bridgeton#3
-StdRoom
-Bridgeton
-Title of Bridgeton#3 
-Description of Bridgeton#3 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
 Bridgeton#3
 CityStreet
@@ -149,70 +100,21 @@ TODO
 Bridgeton#4
 StdRoom
 Bridgeton
-Title of Bridgeton#4 
-Description of Bridgeton#4 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
-Bridgeton#4
-StdRoom
-Bridgeton
-Bridgeton - Main Street - East 
-TODO 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Bridgeton#5
-StdRoom
-Bridgeton
-Title of Bridgeton#5 
-Description of Bridgeton#5 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Bridgeton#5
-StdRoom
-Bridgeton
 Bridgeton - Main Street - East 
 TODO 
 <RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
 Bridgeton#5
-StdRoom
+WoodRoom
 Bridgeton
 Bridgeton - The Setting Sun Inn & Taphouse 
 TODO 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 *
-Bridgeton#6
-StdRoom
-Bridgeton
-Title of Bridgeton#6 
-Description of Bridgeton#6 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
--
 Bridgeton#6
 StdRoom
 Bridgeton
 Bridgeton - Main Street - West 
-TODO 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Bridgeton#7
-StdRoom
-Bridgeton
-Title of Bridgeton#7 
-Description of Bridgeton#7 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Bridgeton#7
-CityStreet
-Bridgeton
-Bridgeton - Main Street - East: NORTH ALLEYWAYS 
-TODO 
-<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
-*
-Bridgeton#7
-CityStreet
-Bridgeton
-NORTH ALLEYWAYS 
 TODO 
 <RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
 -
@@ -222,3 +124,115 @@ Bridgeton
 NORTH ALLEYWAYS 
 TODO 
 <RCLIM>-1</RCLIM><RATMO>-1</RATMO><XGRID>1</XGRID><YGRID>5</YGRID><IMG /><BEHAVES /><AFFECS /> 
+*
+Bridgeton#8
+StdRoom
+Bridgeton
+Title of Bridgeton#8 
+Description of Bridgeton#8 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Bridgeton#8
+SewerRoom
+Bridgeton
+NORTH ALLEYWAYS - Sewer Exit (South) 
+TODO 
+<RCLIM>1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Bridgeton#9
+StdRoom
+Bridgeton
+Title of Bridgeton#9 
+Description of Bridgeton#9 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Bridgeton#9
+WoodRoom
+Bridgeton
+The Setting Sun - Taproom 
+TODO 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Bridgeton#10
+StdRoom
+Bridgeton
+Title of Bridgeton#10 
+Description of Bridgeton#10 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Bridgeton#10
+WoodRoom
+Bridgeton
+The Setting Sun - Quarters 
+TODO 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Bridgeton#4
+CityStreet
+Bridgeton
+Bridgeton - Main Street - East 
+TODO 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Bridgeton#6
+CityStreet
+Bridgeton
+Bridgeton - Main Street - West 
+TODO 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Bridgeton#11
+StdRoom
+Bridgeton
+Title of Bridgeton#11 
+Description of Bridgeton#11 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Bridgeton#11
+CityStreet
+Bridgeton
+Bridgeton - Main Street - Market Street Cross 
+Description of Bridgeton#11 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Bridgeton#12
+StdRoom
+Bridgeton
+Title of Bridgeton#12 
+Description of Bridgeton#12 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Bridgeton#12
+CityStreet
+Bridgeton
+Bridgeton - Market Street - North 
+Description of Bridgeton#12 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Bridgeton#13
+StdRoom
+Bridgeton
+Title of Bridgeton#13 
+Description of Bridgeton#13 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Bridgeton#13
+CityStreet
+Bridgeton
+Bridgeton - Market Street - North 
+Description of Bridgeton#13 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+*
+Bridgeton#14
+StdRoom
+Bridgeton
+Title of Bridgeton#14 
+Description of Bridgeton#14 
+<RCLIM>-1</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 
+-
+Bridgeton#14
+WoodRoom
+Bridgeton
+Bridgeton - The Outfitters 
+Description of Bridgeton#14 
+<RCLIM>0</RCLIM><RATMO>-1</RATMO><IMG /><BEHAVES /><AFFECS /> 

@@ -1071,7 +1071,7 @@ CLANTALK
 -
 WIZINFO
 0
-109
+111
 \?
 -
 WIZINFO
@@ -1221,7 +1221,7 @@ INFO
 -
 CLANTALK
 0
-10
+12
 \?
 -
 CLANTALK
@@ -1232,4 +1232,24 @@ CLANTALK
 WIZINFO
 109
 1566449021570
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Radiantdev has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Radiantdev has logged out'^</CHANNEL^>^?^.
+-
+CLANTALK
+11
+1566530790749
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Radiantdev has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Radiantdev has logged on.'^</CHANNEL^>^?^.
+-
+WIZINFO
+110
+1566530790793
+0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Radiantdev has logged on.'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Radiantdev has logged on.'^</CHANNEL^>^?^.
+-
+CLANTALK
+12
+1566533226647
+0,1163264,1049600,0,27,2006,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Radiantdev has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "CLANTALK"^><S-NAME> [CLANTALK] 'Radiantdev has logged out'^</CHANNEL^>^?^.
+-
+WIZINFO
+111
+1566533226697
 0,1163264,1049600,0,27,2008,StdFactoryMOB:^</B^>,,,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Radiantdev has logged out'^</CHANNEL^>^?^.,&null;,^Q^<CHANNEL "WIZINFO"^><S-NAME> [WIZINFO] 'Radiantdev has logged out'^</CHANNEL^>^?^.
